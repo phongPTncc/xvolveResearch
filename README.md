@@ -1,2 +1,2 @@
 # xvolveResearch
-Research data flow
+Research data flow of xv project
